@@ -1,0 +1,2 @@
+# js
+ScratchJS homepage/redirector.
